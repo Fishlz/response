@@ -1,0 +1,5 @@
+告诉搜索引擎哪些可以搜索，哪些不能搜索到
+更多robots的知识，请百度
+
+User-agent: *
+Disallow: /admin/
